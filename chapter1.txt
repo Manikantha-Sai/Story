@@ -1,1 +1,1 @@
-This is the notes for chapter1
+This is the notes for chapter1. It is updated in branch named my_branch
